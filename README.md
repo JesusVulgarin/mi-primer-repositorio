@@ -13,7 +13,7 @@ El ***objetivo general*** de esta aplicación es brindar una plataforma en inter
 1. Ricardo Salazar (Encargado de escribir el código)
 2. Jesus Vulgarin (Encargado del diseño visual)
 3. Fernado Ruiz (Encargado de revisar que no haya errores)
-4. Andy Guerrero (Encargada de la base de datos y conexiones)
+4. Andy Guerrero (Encargado de la base de datos y conexiones)
 
 ### Principales Funcionalidades
 * Registro de alumnos nuevos organizados por curso y año.
